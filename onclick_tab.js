@@ -7,3 +7,4 @@
           $('a[href="#' + hash + '"]').tab('show');
         })
 </script> 
+// just add a id to the dropdown menu
