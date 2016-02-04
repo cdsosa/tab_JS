@@ -2,5 +2,5 @@
 Enabling Tabs on click
 for bootstrap tabs 
 ```
-<script src="tabs_click.js"></script>
+<script src="onclick_tab.js"></script>
 ```
